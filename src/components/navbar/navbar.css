@@ -1,0 +1,10 @@
+li,Link{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.topList{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
